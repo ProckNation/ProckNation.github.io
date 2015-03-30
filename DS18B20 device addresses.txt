@@ -1,0 +1,21 @@
+Dallas Temperature IC Control Library Demo
+Locating devices...Found 2 devices.
+Parasite power is: OFF
+Device 0 Address: 28B34527050000B8
+
+Device 1 Address: 287F10B8010000F8
+Device 0 Resolution: 9
+Device 1 Resolution: 9
+
+Requesting temperatures...DONE
+Device Address: 28B34527050000B8 Temp C: 21.00 Temp F: 69.80
+Device Address: 287F10B8010000F8 Temp C: 22.50 Temp F: 72.50
+Requesting temperatures...DONE
+Device Address: 28B34527050000B8 Temp C: 21.00 Temp F: 69.80
+Device Address: 287F10B8010000F8 Temp C: 22.50 Temp F: 72.50
+Requesting temperatures...DON
+
+Device 0 Address: 28B34527050000B8
+Device 1 Address: 287F10B8010000F8
+Device 0 Address: 28D884EF040000E2
+Device 1 Address: 287F10B8010000F8
